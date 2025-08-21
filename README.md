@@ -51,6 +51,4 @@ designing **RAG pipelines**, and enhancing backend intelligence with tools like 
 
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/nguyenkiettuan)  
-[![GitHub](https://img.shields.io/badge/GitHub-333?style=flat&logo=github)](https://github.com/Nguyenkiettuan1)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nguyenkiettuan1@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/nguyenkiettuan) [![GitHub](https://img.shields.io/badge/GitHub-333?style=flat&logo=github)](https://github.com/Nguyenkiettuan1)  [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nguyenkiettuan1@gmail.com)  
