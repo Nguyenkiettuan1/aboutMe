@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Nguyen Tuan Kiet  
 
-💻 **Backend Engineer | Full-Stack developer | AI Integrator**  
+💻 **Backend developer  | Full-Stack developer | AI Integrator**  
 📍 Based in Ho Chi Minh City, Vietnam  
 
 ---
 
 ## 🧑‍💻 About Me
-I'm a **Backend Engineer** specializing in designing and building scalable, high-performance systems.  
+I'm a **Backend developer ** specializing in designing and building scalable, high-performance systems.  
 With experience in **Python (Django, FastAPI)**, **RESTful APIs**, **database optimization**, and **CI/CD pipelines**,  
 I deliver robust backend infrastructures that power real-time applications.  
 
