@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Nguyen Tuan Kiet  
 
-💻 **Backend Engineer | Full-Stack Enthusiast | AI Integrator**  
+💻 **Backend Engineer | Full-Stack developer | AI Integrator**  
 📍 Based in Ho Chi Minh City, Vietnam  
 
 ---
